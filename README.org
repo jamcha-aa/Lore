@@ -3,7 +3,7 @@
 * Lore
   2ちゃんねるオカルト板ロア (フォークロア) 風の創作4行小説集。
 
-  - 001-005
+  - [[https://github.com/jamcha-aa/Lore/blob/master/articles/001-010.md][001-005]]
   
 
 
