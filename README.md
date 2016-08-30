@@ -2,7 +2,8 @@
 
 2ちゃんねるオカルト板ロア (フォークロア) 風の創作4行小説集。
 
--   [001-005](https://github.com/jamcha-aa/Lore/blob/master/articles/001-010.md)
+-   [001-005](https://github.com/jamcha-aa/Lore/blob/master/articles/001-005.md)
+-   [006-010](https://github.com/jamcha-aa/Lore/blob/master/articles/006-010.md)
 
 この物語はフィクションであり，実在の人物・団体とは一切関係ありません。
 
