@@ -4,6 +4,7 @@
 
 -   [001-005](./articles/001-005.md)
 -   [006-010](./articles/006-010.md)
+-   011-015
 
 この物語はフィクションであり，実在の人物・団体とは一切関係ありません。
 
@@ -11,10 +12,6 @@
 
 Copyright (c) 2016 jamcha (jamcha.aa@gmail.com).
 
-All novels in this repository by jamcha are licensed under a [Creative Commons Attribution-NonCommercial 4.0 International](http://creativecommons.org/licenses/by-nc/4.0/deed)
+All novels in this repository by jamcha are licensed under a [Creative Commons Attribution Non Commercial Share Alike 4.0 International](http://creativecommons.org/licenses/by-nc-sa/4.0/deed)
 
-[![img](http://i.creativecommons.org/l/by-nc/3.0/80x15.png)](http://creativecommons.org/licenses/by-nc/4.0/deed)
-
-### Other files
-
-Files except novels are licensed under the [MIT License](http://opensource.org/licenses/MIT).
+[![img](http://i.creativecommons.org/l/by-nc-sa/3.0/80x15.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/deed)

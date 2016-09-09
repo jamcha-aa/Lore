@@ -5,7 +5,7 @@
 
   - [[./articles/001-005.md][001-005]]
   - [[./articles/006-010.md][006-010]]
-
+  - 011-015
   
 
 
@@ -14,9 +14,6 @@
 ** License
 Copyright (c) 2016 jamcha (jamcha.aa@gmail.com).
 
-All novels in this repository by jamcha are licensed under a [[http://creativecommons.org/licenses/by-nc/4.0/deed][Creative Commons Attribution-NonCommercial 4.0 International]]
+All novels in this repository by jamcha are licensed under a [[http://creativecommons.org/licenses/by-nc-sa/4.0/deed][Creative Commons Attribution Non Commercial Share Alike 4.0 International]]
 
-[[http://creativecommons.org/licenses/by-nc/4.0/deed][file:http://i.creativecommons.org/l/by-nc/3.0/80x15.png]]
-
-*** Other files
-Files except novels are licensed under the [[http://opensource.org/licenses/MIT][MIT License]].
+[[http://creativecommons.org/licenses/by-nc-sa/4.0/deed][file:http://i.creativecommons.org/l/by-nc-sa/3.0/80x15.png]]
