@@ -5,7 +5,7 @@
 
   - [[https://github.com/jamcha-aa/Lore/blob/master/articles/001-005.md][001-005]]
   - [[https://github.com/jamcha-aa/Lore/blob/master/articles/006-010.md][006-010]]
-  - 011-015
+  - [[https://github.com/jamcha-aa/Lore/blob/master/articles/011-015.md][011-015]]
   
 
 

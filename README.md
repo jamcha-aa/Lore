@@ -4,7 +4,7 @@
 
 -   [001-005](https://github.com/jamcha-aa/Lore/blob/master/articles/001-005.md)
 -   [006-010](https://github.com/jamcha-aa/Lore/blob/master/articles/006-010.md)
--   011-015
+-   [011-015](https://github.com/jamcha-aa/Lore/blob/master/articles/011-015.md)
 
 この物語はフィクションであり，実在の人物・団体とは一切関係ありません。
 

@@ -1,0 +1,20 @@
+#+OPTIONS: toc:nil
+#+OPTIONS: \n:t
+
+* 011
+
+  本州のある温泉街は，不況のあおりを受けて閑古鳥が鳴いていた。そこで自
+  治体は地元にある開けた土地を利用し，温泉つきの高級老人ホームを作る
+  ことにした。結果は上々で多くの入居者があったが，そこはかつて火山ガス
+  が滞留し，生物が住めなくなった土地であることは知らされていない。
+
+
+
+* 注
+  この物語はフィクションであり，実在の人物・団体とは一切関係ありません。
+
+  Copyright (c) 2016 jamcha (jamcha.aa@gmail.com).
+
+  This document is under a [[http://creativecommons.org/licenses/by-nc-sa/4.0/deed][License Creative Commons Attribution Non Commercial Share Alike 4.0 International]]
+
+  [[http://creativecommons.org/licenses/by-nc-sa/4.0/deed][file:http://i.creativecommons.org/l/by-nc-sa/3.0/80x15.png]]
