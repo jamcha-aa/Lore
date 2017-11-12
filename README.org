@@ -7,8 +7,6 @@
   - [[https://github.com/jamcha-aa/Lore/blob/master/articles/006-010.md][006-010]]
   - [[https://github.com/jamcha-aa/Lore/blob/master/articles/011-015.md][011-015]]
   
-
-
   この物語はフィクションであり，実在の人物・団体とは一切関係ありません。
 
 ** License
@@ -16,4 +14,4 @@ Copyright (c) 2016 jamcha (jamcha.aa@gmail.com).
 
 All novels in this repository by jamcha are licensed under the [[http://creativecommons.org/licenses/by-nc-sa/4.0/deed][Creative Commons Attribution Non Commercial Share Alike 4.0 International License]]
 
-[[http://creativecommons.org/licenses/by-nc-sa/4.0/deed][file:http://i.creativecommons.org/l/by-nc-sa/3.0/80x15.png]]
+[[http://creativecommons.org/licenses/by-nc-sa/4.0/deed][file:http://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png]]
