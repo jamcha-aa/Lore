@@ -2,9 +2,9 @@
 
 2ちゃんねるオカルト板ロア (フォークロア) 風，140字程度の創作小説集
 
--   [001-005](https://github.com/jamcha-aa/Lore/blob/master/articles/001-005.md)
--   [006-010](https://github.com/jamcha-aa/Lore/blob/master/articles/006-010.md)
--   [011-015](https://github.com/jamcha-aa/Lore/blob/master/articles/011-015.md)
+閲覧はこちらから↓
+
+<https://jamcha-aa.gitbooks.io/lore/content/>
 
 この物語はフィクションであり，実在の人物・団体とは一切関係ありません。
 
