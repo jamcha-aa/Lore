@@ -5,6 +5,10 @@
 <https://jamcha-aa.gitbooks.io/lore/content/>
 
 <br>
+
+画面左上の「≡」で目次の表示/非表示，「A」でフォントサイズやテーマの切り替えができます。
+
+<br>
 <br>
 
 Copyright (c) 2016 jamcha (jamcha.aa@gmail.com).
