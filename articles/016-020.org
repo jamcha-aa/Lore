@@ -1,0 +1,15 @@
+#+OPTIONS: toc:nil
+#+OPTIONS: \n:t
+
+* 016
+  中世に行われた魔女狩りにおいて，処刑された者のなかに神と対話したと言う女がいた。残された記録によると，彼女が「どうして神は世界から争いをなくさないのか」と聞いたとき，神は「おれが出来るからって，おれがやりたいわけじゃない」と答えたという。
+
+
+<br>
+<br>
+
+  この物語はフィクションであり，実在の人物・団体とは一切関係ありません。
+
+  Copyright (c) 2018 jamcha (jamcha.aa@gmail.com).
+
+  [[http://creativecommons.org/licenses/by-nc-sa/4.0/deed][file:http://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png]]
