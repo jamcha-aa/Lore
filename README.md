@@ -11,7 +11,7 @@
 <br>
 <br>
 
-Copyright (c) 2016 jamcha (jamcha.aa@gmail.com).
+Copyright (c) 2016, 2018 jamcha (jamcha.aa@gmail.com).
 
 All novels in this repository are licensed under the [Creative Commons Attribution Non Commercial Share Alike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/deed)
 
