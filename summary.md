@@ -1,4 +1,4 @@
-* [Lore: index](README.md)
+* [ロア](README.md)
 
 * [001-005](/articles/001-005.md)
 * [006-010](/articles/006-010.md)
