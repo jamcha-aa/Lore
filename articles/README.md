@@ -4,7 +4,7 @@
 
 2ちゃんねるオカルト板ロア (フォークロア) 風，140字程度の創作小説集
 
-<https://jamcha-aa.gitbook.io/lore/>
+<https://jamcha-aa.gitbook.io/Lore/>
 
 <br>
 画面左上の「≡」で目次の表示/非表示ができます。
