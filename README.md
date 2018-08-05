@@ -9,7 +9,7 @@
 <br>
 <br>
 
-[作品一覧](https://jamcha-aa.gitbook.io/about/)
+[作品一覧](https://jamcha-aa.github.io/About/)
 
 [GitHubリポジトリ](https://github.com/jamcha-aa/Lore)
 
