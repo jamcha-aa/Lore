@@ -6,6 +6,9 @@
   [[https://jamcha-aa.github.io/Lore/]]
 
   <br>
+  画面左上の「≡」で目次の表示/非表示ができます。
+
+  <br>
   <br>
 
   [[https://jamcha-aa.github.io/About/][作品一覧]]
