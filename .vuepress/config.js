@@ -2,7 +2,7 @@ const summary = require('./summary.js');
 
 module.exports = {
     title: 'Lore',
-    description: 'ちょっと忘れっぽい。そんな私のためのちょっと不思議な短編小説集。',
+    description: 'ちょっと不思議な一口小説集。',
     locales: {
         '/': {
             lang: 'ja'
