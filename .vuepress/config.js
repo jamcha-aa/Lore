@@ -2,7 +2,7 @@ const summary = require('./summary.js');
 
 module.exports = {
     title: 'Lore',
-    description: '2 ちゃんねるオカルト板ロア風，140 字程度の創作小説集',
+    description: 'ちょっと忘れっぽい。そんな人のためのひとくち小説集。',
     locales: {
         '/': {
             lang: 'ja'
