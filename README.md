@@ -2,7 +2,7 @@
 home: true
 heroImage: /hero.png
 actionText: 読む
-actionLink: /article/001-005.html
+actionLink: /article/
 ---
 
 <br>
@@ -23,3 +23,4 @@ All the novels in this repository are licensed under the [Creative Commons Attri
 
 [![img](https://cdn.rawgit.com/syl20bnr/spacemacs/442d025779da2f62fc86c2082703697714db6514/assets/spacemacs-badge.svg)](http://spacemacs.org)
 
+Published with [VuePress](https://vuepress.vuejs.org/)
