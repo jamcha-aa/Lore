@@ -4,6 +4,7 @@ exports.genSidebarConfig = function (title) {
             title,
             collapsable: false,
             children: [
+                '',
                 '001-005',
                 '006-010',
                 '011-015',
