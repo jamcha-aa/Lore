@@ -22,5 +22,6 @@ All the novels in this repository are licensed under the [Creative Commons Attri
 ![cc by-nc-sa](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
 
 [![img](https://cdn.rawgit.com/syl20bnr/spacemacs/442d025779da2f62fc86c2082703697714db6514/assets/spacemacs-badge.svg)](http://spacemacs.org)
+![travisci](https://api.travis-ci.org/jamcha-aa/Lore.svg?branch=master)
 
 Published with [VuePress](https://vuepress.vuejs.org/)
