@@ -1,22 +1,6 @@
 {
-  "name": "lore",
-  "version": "1.0.0",
-  "description": "--- home: true heroImage: /hero.png actionText: 読む actionLink: /article/001-005.html",
-  "main": "index.js",
-  "directories": {
-    "doc": "docs"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/jamcha-aa/Lore.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/jamcha-aa/Lore/issues"
-  },
-  "homepage": "https://github.com/jamcha-aa/Lore#readme"
+    "scripts": {
+        "docs:dev": "vuepress dev",
+        "docs:build": "vuepress build"
+    }
 }

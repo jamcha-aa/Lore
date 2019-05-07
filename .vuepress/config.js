@@ -27,5 +27,5 @@ module.exports = {
     ['link', { rel: 'icon', type: 'image/png', href: '/img/favicon.png' }]
     ],
     base: '/Lore/',
-    dest: 'docs'
+    dest: '.vuepress/dist'
 }
