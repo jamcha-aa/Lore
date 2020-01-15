@@ -15,7 +15,7 @@ actionLink: /article/
 
 この物語はフィクションであり，実在の人物・団体とは一切関係ありません。
 
-Copyright (c) 2016, 2018-2019 jamcha (jamcha.aa@gmail.com).
+Copyright (c) 2016, 2018-2020 jamcha (jamcha.aa@gmail.com).
 
 All the novels in this repository are licensed under the [Creative Commons Attribution Non Commercial Share Alike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/deed)
 
